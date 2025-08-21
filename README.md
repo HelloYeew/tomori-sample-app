@@ -1,3 +1,7 @@
+Merged to [sakura](https://github.com/HelloYeew/sakura-sample-app)
+
+---------
+
 # Sample app for Tomori Framework
 
 This repository contain the starter repository and some examples for start development of the application or game using Tomori Framework.
